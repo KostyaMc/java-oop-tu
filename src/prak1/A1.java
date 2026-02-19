@@ -1,3 +1,5 @@
+package prak1;
+
 public class A1 {
     static int arvutegategevus(int a, int b){
         return a + b;

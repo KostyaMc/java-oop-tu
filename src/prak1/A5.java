@@ -1,3 +1,5 @@
+package prak1;
+
 public class A5 {
     static int height(int min, int max){
         return (int)(Math.random() * (max - min) + 1) + min;

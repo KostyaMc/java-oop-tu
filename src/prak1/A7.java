@@ -1,3 +1,5 @@
+package prak1;
+
 public class A7 {
     public static void main(String[] args){
         String name = args[0];
